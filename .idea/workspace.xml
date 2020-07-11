@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f343697c-da04-44a7-89b0-d2c78e657bb1" name="Default Changelist" comment="源码 5.1.3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/spring-aop">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../resource" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\TOOLS\MAVEN\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../TOOLS/MAVEN/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\TOOLS\MAVEN\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eAaLvvwNVm5e64Mqro6GOLUwfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../resource" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.com.cgh.bean" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTest.test2">
+    <configuration name="spring-framework [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StudentTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.cgh.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.com.cgh.bean" />
+      <option name="MAIN_CLASS_NAME" value="cn.com.cgh.bean.StudentTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.spring-framework [jar]" />
+      <item itemvalue="JUnit.StudentTest.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTest.test2" />
+        <item itemvalue="Gradle.spring-framework [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\root\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f343697c-da04-44a7-89b0-d2c78e657bb1" name="Default Changelist" comment="" />
+      <created>1593766798423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593766798423</updated>
+      <workItem from="1593766801764" duration="9559000" />
+      <workItem from="1594457792011" duration="2225000" />
+    </task>
+    <task id="LOCAL-00001" summary="源码">
+      <created>1594458572811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594458572812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="源码">
+      <created>1594459630712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594459630712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="源码 5.1.3">
+      <created>1594459783046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594459783046</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="源码" />
+    <MESSAGE value="源码 5.1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="源码 5.1.3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1129" y="325" key="#Inspections" timestamp="1593774172547">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1129" y="325" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1593774172547" />
+    <state x="988" y="342" key="#Plugins" timestamp="1593766812274">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="988" y="342" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1593766812274" />
+    <state x="1013" y="443" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593770697673">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1013" y="443" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593770697673" />
+    <state x="1364" y="493" key="#com.intellij.ide.util.MemberChooser" timestamp="1593768971489">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1364" y="493" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1593768971489" />
+    <state x="1289" y="564" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593769097283">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1289" y="564" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593769097283" />
+    <state x="1053" y="356" key="CommitChangelistDialog2" timestamp="1594459781584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1053" y="356" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594459781584" />
+    <state width="453" height="466" key="DebuggerActiveHint" timestamp="1593772547417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="453" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1593772547417" />
+    <state x="1085" y="563" key="DetectedRootsChooserDialog" timestamp="1593770556815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="563" key="DetectedRootsChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593770556815" />
+    <state x="1222" y="435" key="FileChooserDialogImpl" timestamp="1594460017874">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1222" y="435" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594460017874" />
+    <state x="1479" y="678" width="256" height="298" key="Github.ShareDialog" timestamp="1594458644835">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1479" y="678" width="256" height="298" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594458644835" />
+    <state width="1335" height="263" key="GridCell.Tab.0.bottom" timestamp="1593791629443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="263" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629443" />
+    <state width="1335" height="263" key="GridCell.Tab.0.center" timestamp="1593791629443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="263" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629443" />
+    <state width="1335" height="263" key="GridCell.Tab.0.left" timestamp="1593791629443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="263" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629443" />
+    <state width="1335" height="263" key="GridCell.Tab.0.right" timestamp="1593791629443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="263" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629443" />
+    <state width="1335" height="195" key="GridCell.Tab.1.bottom" timestamp="1593791629438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="195" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629438" />
+    <state width="1335" height="195" key="GridCell.Tab.1.center" timestamp="1593791629438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="195" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629438" />
+    <state width="1335" height="195" key="GridCell.Tab.1.left" timestamp="1593791629438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="195" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629438" />
+    <state width="1335" height="195" key="GridCell.Tab.1.right" timestamp="1593791629438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1335" height="195" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629438" />
+    <state x="922" y="284" width="1366" height="852" key="SettingsEditor" timestamp="1594458403360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="922" y="284" width="1366" height="852" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594458403360" />
+    <state x="1280" y="533" width="582" height="524" key="StructurePopup" timestamp="1593768856495">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1280" y="533" width="582" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1593768856495" />
+    <state width="630" height="540" key="SwitcherDM" timestamp="1593771890344">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="630" height="540" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1593771890344" />
+    <state x="1199" y="500" key="Vcs.Push.Dialog.v2" timestamp="1594459849840">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1199" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594459849840" />
+    <state x="1161" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593768800843">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1161" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1593768800843" />
+    <state x="1353" y="701" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593769027058">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1353" y="701" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1593769027058" />
+    <state x="1330" y="570" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593769106421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1330" y="570" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593769106421" />
+    <state x="1342" y="567" key="git4idea.merge.GitPullDialog" timestamp="1594459873864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1342" y="567" key="git4idea.merge.GitPullDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594459873864" />
+    <state x="1233" y="665" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594459734658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1233" y="665" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594459734658" />
+    <state x="833" y="231" key="new project wizard" timestamp="1593768157583">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="833" y="231" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1593768157583" />
+  </component>
+</project>
