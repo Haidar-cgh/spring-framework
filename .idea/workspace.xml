@@ -26,7 +26,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f343697c-da04-44a7-89b0-d2c78e657bb1" name="Default Changelist" comment="源码 5.1.3">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/6.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/6.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/6.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/6.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_apply_closure1$_closure4.class" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_apply_closure1$_closure4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_apply_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_apply_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_collectProjectDependencies_closure2.class" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_collectProjectDependencies_closure2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_collectProjectDependencies_closure3.class" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin$_collectProjectDependencies_closure3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/classes/groovy/main/org/springframework/build/gradle/TestSourceSetDependenciesPlugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build/libs/buildSrc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/libs/buildSrc.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +81,7 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="spring" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spring" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -82,7 +100,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../resource" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -117,10 +135,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -131,11 +149,30 @@
       <recent name="junit.framework.TestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentTest.test2">
+  <component name="RunManager" selected="Gradle.spring-framework:spring-jdbc [jar]">
     <configuration name="spring-framework [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-framework:spring-jdbc [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-jdbc" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -170,9 +207,11 @@
     <list>
       <item itemvalue="Gradle.spring-framework [jar]" />
       <item itemvalue="JUnit.StudentTest.test2" />
+      <item itemvalue="Gradle.spring-framework:spring-jdbc [jar]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.spring-framework:spring-jdbc [jar]" />
         <item itemvalue="JUnit.StudentTest.test2" />
         <item itemvalue="Gradle.spring-framework [jar]" />
       </list>
@@ -194,6 +233,10 @@
       <updated>1593766798423</updated>
       <workItem from="1593766801764" duration="9559000" />
       <workItem from="1594457792011" duration="3035000" />
+      <workItem from="1594462762130" duration="900000" />
+      <workItem from="1594463690304" duration="143000" />
+      <workItem from="1594463842344" duration="1547000" />
+      <workItem from="1594465405383" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="源码">
       <created>1594458572811</created>
@@ -239,6 +282,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="源码" />
@@ -254,6 +298,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="988" y="342" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1593766812274" />
+    <state x="1074" y="375" key="#Project_Structure" timestamp="1594463721513">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1074" y="375" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1594463721513" />
     <state x="1013" y="443" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593770697673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -278,10 +326,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1085" y="563" key="DetectedRootsChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593770556815" />
-    <state x="1222" y="435" key="FileChooserDialogImpl" timestamp="1594460017874">
+    <state x="1222" y="435" key="FileChooserDialogImpl" timestamp="1594464374379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1222" y="435" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594460017874" />
+    <state x="1222" y="435" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594464374379" />
     <state x="1479" y="678" width="256" height="298" key="Github.ShareDialog" timestamp="1594458644835">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -318,10 +366,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1335" height="195" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593791629438" />
-    <state x="922" y="284" width="1366" height="852" key="SettingsEditor" timestamp="1594458403360">
+    <state x="922" y="284" width="1366" height="852" key="SettingsEditor" timestamp="1594464856109">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="922" y="284" width="1366" height="852" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594458403360" />
+    <state x="922" y="284" width="1366" height="852" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594464856109" />
     <state x="1280" y="533" width="582" height="524" key="StructurePopup" timestamp="1593768856495">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -334,6 +382,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1199" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594460531433" />
+    <state x="1038" y="333" width="1195" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594465626979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="333" width="1195" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594465626979" />
     <state x="1161" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593768800843">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
