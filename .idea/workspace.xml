@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:issues" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f343697c-da04-44a7-89b0-d2c78e657bb1" name="Default Changelist" comment="源码 5.1.3" />
+    <list default="true" id="f343697c-da04-44a7-89b0-d2c78e657bb1" name="Default Changelist" comment="源码 5.1.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593766798423</updated>
       <workItem from="1593766801764" duration="9559000" />
-      <workItem from="1594457792011" duration="2225000" />
+      <workItem from="1594457792011" duration="3035000" />
     </task>
     <task id="LOCAL-00001" summary="源码">
       <created>1594458572811</created>
@@ -190,11 +216,29 @@
       <option name="project" value="LOCAL" />
       <updated>1594459783046</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="源码 5.1.3">
+      <created>1594460469326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594460469326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="源码" />
@@ -222,10 +266,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1289" y="564" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593769097283" />
-    <state x="1053" y="356" key="CommitChangelistDialog2" timestamp="1594459781584">
+    <state x="1221" y="419" key="CommitChangelistDialog2" timestamp="1594460023128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1053" y="356" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594459781584" />
+    <state x="1221" y="419" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594460023128" />
     <state width="453" height="466" key="DebuggerActiveHint" timestamp="1593772547417">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -286,14 +330,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="630" height="540" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1593771890344" />
-    <state x="1199" y="500" key="Vcs.Push.Dialog.v2" timestamp="1594459849840">
+    <state x="1199" y="500" key="Vcs.Push.Dialog.v2" timestamp="1594460531433">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1199" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594459849840" />
+    <state x="1199" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594460531433" />
     <state x="1161" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593768800843">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1161" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1593768800843" />
+    <state x="1329" y="644" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1594460388743">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1329" y="644" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594460388743" />
     <state x="1353" y="701" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593769027058">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
