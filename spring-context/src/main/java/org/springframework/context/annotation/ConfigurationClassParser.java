@@ -276,6 +276,7 @@ class ConfigurationClassParser {
 			}
 		}
 
+//		如果有 @ComponentScan 标签 刚对路径下的类进行加载
 		// Process any @ComponentScan annotations
 		Set<AnnotationAttributes> componentScans = AnnotationConfigUtils.attributesForRepeatable(
 				sourceClass.getMetadata(), ComponentScans.class, ComponentScan.class);
