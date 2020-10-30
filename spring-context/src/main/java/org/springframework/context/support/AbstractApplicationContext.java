@@ -543,12 +543,25 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 			prepareBeanFactory(beanFactory);
 
 			try {
+				/**
+				 * TODO
+				 */
 				// Allows post-processing of the bean factory in context subclasses.
 				postProcessBeanFactory(beanFactory);
 
+				/**
+				 * 自定义
+				 * BeanDefinitionRegistryPostProcessor
+				 * BeanFactoryPostProcessor
+				 * 完成这两个接口的调用
+				 */
 				// Invoke factory processors registered as beans in the context.
 				invokeBeanFactoryPostProcessors(beanFactory);
 
+				/**
+				 * 自定义 ioc BeanPostProcessor 是在注册扫描过程中进行注册的
+				 * 实现了BeanPostProcessor接口的类的实例化， 并且加入到BeanFactory中
+				 */
 				// Register bean processors that intercept bean creation.
 				registerBeanPostProcessors(beanFactory);
 
